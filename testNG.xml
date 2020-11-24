@@ -1,0 +1,14 @@
+<suite name = "Suite">
+    <test name = "Test">
+        <parameter name = "url" value = "https://www.amazon.com/"/>
+        <parameter name = "itemName" value = "Shirt"/>
+        <parameter name = "itemTitle" value = "Under Armour Men's Tech 2.0 Short-Sleeve T-Shirt , Black (001)/Graphite , Small"/>
+        <parameter name = "price" value = "$19.99"/>
+        <parameter name = "name" value = "Sahan"/>
+        <parameter name = "email" value = "sahan123@123.com"/>
+        <parameter name = "pw" value = "Sahan123"/>
+        <classes>
+            <class name = "test1.HomePage"></class>
+        </classes>
+    </test>
+</suite>
